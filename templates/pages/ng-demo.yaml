@@ -1,0 +1,13 @@
+title: ng-demo
+templateScript: /angular-magnolia-demo/templates/pages/ng-demo.ftl
+renderType: freemarker
+dialog: angular-magnolia-demo:pages/ng-demo
+visible: true
+
+areas:
+  main:
+    availableComponents:
+      comp1:
+        id: angular-magnolia-demo:components/comp1
+      comp2:
+        id: angular-magnolia-demo:components/comp2

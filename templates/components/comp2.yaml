@@ -1,0 +1,4 @@
+title: comp2
+renderType: freemarker
+templateScript: /angular-magnolia-demo/templates/components/comp2.ftl
+dialog: angular-magnolia-demo:components/comp2
